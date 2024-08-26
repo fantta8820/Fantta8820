@@ -24,7 +24,7 @@
     <li>ThreeJS (ainda em fase de testes)</li>
   </ul>
 </details>
-<h5>Com o tempo vou ir colocando novos projetos no meu <a align="center" href="fantta.vercel.app">portfolio</a>.</h5>
+<h5>Com o tempo vou ir colocando novos projetos no meu <a align="center" href="https://fantta.vercel.app">portfolio</a>.</h5>
 
 --- 
 
