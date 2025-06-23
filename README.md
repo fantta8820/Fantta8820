@@ -25,7 +25,7 @@
   </ul>
 </details>
 
-<p><a href="https://fantta.vercel.app">Portfolio:</a> Meu Portfolio em desenvolvimento.</p>
+<p><a href="https://fantta.vercel.app">Portfolio:</a> Meu Portfolio está sendo desenvolvido</p>
 
 --- 
 
