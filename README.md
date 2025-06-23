@@ -5,12 +5,12 @@
 ---
 
 <h3>📚 Minhas habilidades</h3>
-<p>Algumas das linguagens que uso ou já utilizei são:</p>
+<p>Algumas das tecnologias que uso ou já utilizei são:</p>
 <div align="center"><a href="https://skillicons.dev"><img width="600" src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,typescript,svelte,python,php,wordpress&theme=dark&perline=15" alt="My Skills"/></a></div>
 
 --- 
 
-<h3>⭐ Projetos atuais</h3>
+<h3>⭐ Projetos</h3>
 <details>
   <summary><a href="https://github.com/swibly">Arkhon:</a> A Arkhon é uma plataforma online dedicada à criação de plantas de arquitetura.</summary>
   
@@ -25,7 +25,7 @@
   </ul>
 </details>
 
-<p><a href="fantta.vercel.app">Portfolio</a>: Meu Portfolio em desenvolvimento.</p>
+<p><a href="https://fantta.vercel.app">Portfolio:</a> Meu Portfolio em desenvolvimento.</p>
 
 --- 
 
