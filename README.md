@@ -6,7 +6,7 @@
 
 <h3>📚 Minhas habilidades</h3>
 <p>Algumas das tecnologias que uso ou já utilizei:</p>
-<div align="center"><a href="https://skillicons.dev"><img width="600" src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,typescript,svelte,python,php,wordpress&theme=dark&perline=15" alt="My Skills"/></a></div>
+<div align="center"><a href="https://skillicons.dev"><img width="600" src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,typescript,react,svelte,python,php,golang,wordpress&theme=dark&perline=15" alt="My Skills"/></a></div>
 
 --- 
 
