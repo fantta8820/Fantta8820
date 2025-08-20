@@ -1,6 +1,6 @@
 <h1 align="center">Olá, tudo bem? Meu nome é André Victor Garcia</h1>
 <h2 align="center">Desenvolvedor Web</h2>
-<p>Desenvolvedor Front-End em formação com uma base de conhecimentos em tecnologias como HTML, CSS, Javascript, TypeScript e SvelteKit. Atualmente focado em adquirir experiência profissional em projetos Front-End.</p>
+<p>Desenvolvedor Front-End em formação com uma base de conhecimentos em tecnologias como HTML, CSS, Javascript, TypeScript, React e SvelteKit. Atualmente focado em adquirir experiência nas áreas de Desenvolvimento Web e Back-end.</p>
 
 ---
 
@@ -25,7 +25,7 @@
   </ul>
 </details>
 
-<p><a href="https://fantta.vercel.app">Portfolio:</a> Meu Portfolio está sendo desenvolvido.</p>
+<p><a href="https://fantta8820.com">Portfolio:</a> Meu Portfolio com mais informações sobre mim.</p>
 
 --- 
 
